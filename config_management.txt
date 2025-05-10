@@ -1,0 +1,3 @@
+Configuration management is essential in software development because 
+it allows teams to manage changes efficiently reduce conflicts maintain version history 
+and ensure consistency throughout the project
